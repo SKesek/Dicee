@@ -1,3 +1,3 @@
-# Dice
+# Dicee
  
 Aplikacja z kostkami do gry
